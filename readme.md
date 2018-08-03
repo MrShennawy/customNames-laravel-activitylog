@@ -15,9 +15,6 @@ protected static $logAttributes = ['account number'=>'acc_num'];
 * Run the Composer require command from the Terminal:
 
     composer install
-    php artisan key:generate
-    php artisan migrate
-	php artisan serve
 
 * open：localhost:8000
 
